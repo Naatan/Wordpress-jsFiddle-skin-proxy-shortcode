@@ -1,5 +1,5 @@
 Simple wordpress plugin for <a href="https://github.com/Naatan/jsFiddle-skin-proxy">jsFiddle-skin-proxy</a> that adds a shortcode with the following attributes
 
-[jsfiddle id="vcKdF" tabs="js,html,css,result" height="300px" width="95%"]
+<span>[jsfiddle id="vcKdF" tabs="js,html,css,result" height="300px" width="95%"]</span>
 
 Only the id is required.
